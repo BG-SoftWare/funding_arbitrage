@@ -1,0 +1,10 @@
+{
+  "db_connection_string": "connection_string_to_db. Format 'dialect+driver://username:password@host:port/database'",
+  "usdt_amount": "your USDT amount for each exchange",
+  "leverage": "required leverage",
+  "funding_timeout_secs": "60",
+  "credentials_json": "credentials.json",
+  "estimated_pnl": "required pnl",
+  "chatid": "chat_id",
+  "bot_token": "bot_token"
+}

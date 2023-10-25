@@ -1,0 +1,10 @@
+{
+  "CHRUSDT": {
+    "Binance": "CHRUSDT",
+    "ByBit": "CHRUSDT"
+  },
+  "MASKUSDT": {
+    "Binance": "MASKUSDT",
+    "ByBit": "MASKUSDT"
+  }
+}

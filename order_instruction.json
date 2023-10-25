@@ -1,0 +1,14 @@
+{
+  "available_routes": [
+    "BUY",
+    "SELL"
+  ],
+  "available_position_sides": [
+    "LONG",
+    "SHORT"
+  ],
+  "available_exchanges": [
+    "Binance",
+    "ByBit"
+  ]
+}
