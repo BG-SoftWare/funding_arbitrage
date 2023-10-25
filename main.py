@@ -8,7 +8,7 @@ from libs.telegram_bot import BotAlert
 from libs.thread_with_return_value import ThreadWithReturnValue
 from libs.trade_executor import TradeLogic
 
-main_config = json.load(open("main_config.json", "r"))
+main_config = json.load(open("config_files/main_config.json", "r"))
 credentials = json.load(open(main_config["credentials_json"], "r"))
 
 logging.basicConfig(filename=f"main_thread_{time.strftime('%d-%m-%Y_%H_%M_%S', time.gmtime())}.txt",
